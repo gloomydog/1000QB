@@ -1,5 +1,5 @@
 
-# Quettabyte File Generator
+#Create 1000 Quettabyte file
 
 A quettabyte (QB) is the largest SI decimal unit currently defined (10^30 bytes). 
 This script generates a file that represents 1000 QB using nested bzip2 and xz compression.
